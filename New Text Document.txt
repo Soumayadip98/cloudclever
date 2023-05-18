@@ -1,0 +1,20 @@
+Host
+bo1hwkrdug0iwogjrcrx-mysql.services.clever-cloud.com
+
+Database Name
+bo1hwkrdug0iwogjrcrx
+
+User
+uzqtpflvoskoq0uy
+
+Password
+tmzVMwFqeL9gyDbxIhSR
+
+port
+3306
+
+Connection URI
+mysql://uzqtpflvoskoq0uy:tmzVMwFqeL9gyDbxIhSR@bo1hwkrdug0iwogjrcrx-mysql.services.clever-cloud.com:3306/bo1hwkrdug0iwogjrcrx
+
+MySQL CLI
+mysql -h bo1hwkrdug0iwogjrcrx-mysql.services.clever-cloud.com -P 3306 -u uzqtpflvoskoq0uy -p bo1hwkrdug0iwogjrcrx
