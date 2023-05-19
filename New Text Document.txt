@@ -18,3 +18,23 @@ mysql://uzqtpflvoskoq0uy:tmzVMwFqeL9gyDbxIhSR@bo1hwkrdug0iwogjrcrx-mysql.service
 
 MySQL CLI
 mysql -h bo1hwkrdug0iwogjrcrx-mysql.services.clever-cloud.com -P 3306 -u uzqtpflvoskoq0uy -p bo1hwkrdug0iwogjrcrx
+
+
+
+//ecommerce
+
+Host
+b6al6aevwlrvkcowvrpa-mysql.services.clever-cloud.com
+Database Name
+b6al6aevwlrvkcowvrpa
+User
+ud1susig09b81slv
+Password
+Dgz1FzKIEcLPJY7c0ekU
+
+Port
+3306
+Connection URI
+mysql://ud1susig09b81slv:Dgz1FzKIEcLPJY7c0ekU@b6al6aevwlrvkcowvrpa-mysql.services.clever-cloud.com:3306/b6al6aevwlrvkcowvrpa
+MySQL CLI
+mysql -h b6al6aevwlrvkcowvrpa-mysql.services.clever-cloud.com -P 3306 -u ud1susig09b81slv -p b6al6aevwlrvkcowvrpa
